@@ -2,10 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 N:Abdessamad
 FN:Abdessamad CHARRAFI
-TITLE:Clinical Specialist - Robotic Surgery
+TITLE:Clinical Application Specialist - Robotic Surgery
 ORG:T2S Group
 TEL;TYPE=WORK,VOICE:+212642737631
-EMAIL;TYPE=WORK:abdessamad@example.com
+EMAIL;TYPE=WORK:abdessamad.charrafi@gmail.com
 ADR;TYPE=WORK:Casablanca, Maroc
-URL:https://www.linkedin.com/in/ton-profil
+URL:https://t2s.group
 END:VCARD
